@@ -56,7 +56,7 @@ public class TestAsync {
         });
 
         try {
-            Thread.sleep(3000);
+            Thread.sleep(500);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
