@@ -1,6 +1,7 @@
 package com.example.test_transactional.entity;
 
 import lombok.Data;
+import lombok.ToString;
 
 import javax.persistence.*;
 import java.util.ArrayList;
